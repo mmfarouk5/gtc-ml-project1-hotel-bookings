@@ -1,4 +1,4 @@
-# Hotel Booking Analysis
+# Hotel Booking EDA
 
 This notebook performs an exploratory data analysis and preprocessing of hotel booking data to prepare it for potential machine learning model training.
 
